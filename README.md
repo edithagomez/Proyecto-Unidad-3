@@ -12,7 +12,7 @@ Edith Alessandra Gomez Sanchez
 
 Documentación y Reporte
 
-Ver Reporte Actualizado U3 (PDF) — Incluye la comparativa de antes y después, fragmentos de código refactorizado, conteo de líneas y evidencias de ejecución.
+./Reporte%20Actualizado%20U3.pdf — Incluye la comparativa de antes y después, fragmentos de código refactorizado, conteo de líneas y evidencias de ejecución.
 
 Descripción del Proyecto
 
